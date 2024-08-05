@@ -13,7 +13,7 @@
 
 **Known software**:
     
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,cs,eclipse,godot,haskell,java,linux,py,ai,unity,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,cs,eclipse,godot,haskell,java,kali,py,ai,unity,vscode&perline=6)](https://skillicons.dev)
 
 <br>   
 
