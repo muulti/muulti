@@ -3,7 +3,7 @@
 
 <p align="center">
 
-- **A bit about me **:
+- **A bit about me**:
 <br>
 
 - I speak English and Spanish (mothertongue)
