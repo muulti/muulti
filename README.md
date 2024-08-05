@@ -8,8 +8,7 @@
 - Junior **`Computer Science`** student at Basque Country University.
 - Still learning interesting things by myself as much as I can.
 
-<br><br>
-
+<br>
 
 
 **Known software**:
