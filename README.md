@@ -24,4 +24,11 @@
 - I love physics, math, **`black holes`**, the universe and writing complex simulations wich portray it´s beauty. I also passionate about neural networks and deep learning.
 - I like videogames and movies/series such as Outer Wilds and Mr. Robot.
 
+<br>
+
+**Contact me through**:
+<br>
+
+- My email: **`pomaresdiego.011@gmail.com`**
+- My discord username: **`multit`**
 <br><br>
