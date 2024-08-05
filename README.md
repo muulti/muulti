@@ -3,9 +3,9 @@
 **About me**:
 <br>
 
-- My name is  **Diego** and I´ve been around for 20 years.
-- I speak **English** and **Spanish** (mothertongue).
-- Junior **Computer Science** student at Basque Country University.
+- My name is  **`Diego`** and I´ve been around for 20 years.
+- I speak **`English and Spanish`** (mothertongue).
+- Junior **`Computer Science`** student at Basque Country University.
 - Still learning interesting things by myself as much as I can.
 
 <br>
@@ -21,7 +21,7 @@
 **What I love**:
 <br>
 
-- I love **physics**, **math**, **black holes**, the universe and writing complex simulations wich portray it´s beauty. I also passionate about **neural networks** and **deep learning**.
+- I love **`physics, math, black holes, the universe and writing complex simulations`** wich portray it´s beauty. I also passionate about **`neural networks and deep learning`**.
 - I like videogames and movies/series such as Outer Wilds and Mr. Robot.
 
 <br>
