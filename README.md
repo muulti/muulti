@@ -21,8 +21,8 @@
 **What I love**:
 <br>
 
-- I love **`physics, math, black holes, the universe and writing complex simulations`** wich portray it´s beauty. I´m also passionate about **`neural networks and machine learning`**.
-- I like videogames and movies/series such as Outer Wilds and Mr. Robot.
+- I love **`physics, math, black holes, the universe and writing complex simulations`** wich portray it´s beauty.
+- I am passionate about videogames, movies, series... Art in its most elegant and interesting forms.
 
 <br>
 
