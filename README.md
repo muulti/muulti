@@ -22,7 +22,7 @@
 <br>
 
 - I love **`physics, math, black holes, the universe and writing complex simulations`** wich portray it´s beauty.
-- I am passionate about videogames, movies, series... Art in its most elegant and interesting forms.
+- I am passionate about videogames, movies, series... **`Art`** in its most elegant and interesting forms.
 
 <br>
 
