@@ -3,9 +3,9 @@
 **About me**:
 <br>
 
-- My name is  **`Diego`** and I´ve been around for 20 years.
+- My name is  **`Diego`** and I´ve been around for 21 years.
 - I speak **`English and Spanish`** (mothertongue).
-- **`Computer Science`** student at Basque Country University.
+  **`Computer Science`** student at Basque Country University.
 - Still learning interesting things by myself as much as I can.
 
 <br>
@@ -21,7 +21,7 @@
 **What I love**:
 <br>
 
-- I love **`physics, math, black holes, the universe and writing complex simulations`** wich portray it´s beauty.
+- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray it´s beauty.
 - I am passionate about videogames, movies, series... **`Art`** in its most elegant and interesting forms.
 
 <br>
