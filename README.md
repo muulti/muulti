@@ -5,7 +5,7 @@
 
 - My name is  **`Diego`** and I´ve been around for 20 years.
 - I speak **`English and Spanish`** (mothertongue).
-- Junior **`Computer Science`** student at Basque Country University.
+- **`Computer Science`** student at Basque Country University.
 - Still learning interesting things by myself as much as I can.
 
 <br>
