@@ -11,9 +11,11 @@
 <br>
 
 
-**Known software**:
-    
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,,cs,eclipse,godot,haskell,java,kali,py,unity,latex&perline=6)](https://skillicons.dev)
+**Web-dev**:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+**as-dev**:
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,cs,eclipse,godot,haskell,java,kali,py,unity,latex&perline=6)](https://skillicons.dev)
 
 <br>   
 
