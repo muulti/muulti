@@ -28,7 +28,7 @@
 
 **Systems**:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,linux)](https://skillicons.dev)
 
 <br>   
 
