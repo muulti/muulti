@@ -10,23 +10,25 @@
 
 <br>
 
-**Languages**:
+**I´ve worked with:**
+
+**→Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash)](https://skillicons.dev)
 
-**Web-development**:
+**→Web-development**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,flask)](https://skillicons.dev)
 
-**Engines**:
+**→Engines**
 
 [![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 
-**Data science**:
+**→Data science**
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,r)](https://skillicons.dev)
 
-**Systems**:
+**→Systems**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,linux)](https://skillicons.dev)
 
