@@ -10,12 +10,25 @@
 
 <br>
 
+**Languages**:
 
-**Web-dev**:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash)](https://skillicons.dev)
 
-**as-dev**:
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,cs,eclipse,godot,haskell,java,kali,py,unity,latex&perline=6)](https://skillicons.dev)
+**Web-development**:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,flask)](https://skillicons.dev)
+
+**Engines**:
+
+[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+
+**Data science**:
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,r)](https://skillicons.dev)
+
+**Systems**:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker)](https://skillicons.dev)
 
 <br>   
 
