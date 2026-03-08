@@ -3,7 +3,7 @@
 **About me**:
 <br>
 
-- My name is  **`Diego`** and I´ve been around for 21 years.
+- My name is  **`Diego`** and I´ve been around for 22 years.
 - I speak **`English and Spanish`** (mothertongue).
   **`Computer Science`** student at Basque Country University.
 - Still learning interesting things by myself as much as I can.
