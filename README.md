@@ -22,6 +22,8 @@
 
 <br>
 Either my editing or my software is properly shown in Instagram & Github respectively. Check it out in my repositories! Contacts below.
+
+<br>
 <br>
 
 **I´ve worked with:**
