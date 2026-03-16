@@ -4,7 +4,7 @@
 <br>
 
 - My name is  **`Diego`** and I´ve been around for 22 years.
-- I speak **`English and Spanish`** (mothertongue).
+- I speak **`English and Spanish`** as fluently as a fish swims.
 - **`Computer Science`** student & **`Editor`**.
 - Still learning interesting things by myself as much as I can.
 
