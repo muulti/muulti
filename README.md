@@ -5,7 +5,7 @@
 
 - My name is  **`Diego`** and I´ve been around for 22 years.
 - I speak **`English and Spanish`** as fluently as a fish swims.
-- **`Computer Science`** student & **`Editor`**.
+- **`Computer Science`** student & **`Editor`** in my free time.
 - Still learning interesting things by myself as much as I can.
 
 <br>
@@ -14,8 +14,8 @@
 <br>
 
 - **`Software architecture`**, patterns and clean code. Refactoring for better structure helps my sanity. 
-- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray it´s beauty.
-- I am passionate about videogames, movies, series... **`Art`** and **`creation`** in most it´s forms.
+- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray its beauty.
+- I am passionate about videogames, movies, series. **`Art`** & **`creation`** in most its forms.
 
 <br>
 
