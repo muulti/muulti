@@ -10,6 +10,15 @@
 
 <br>
 
+**What I do**:
+<br>
+
+- **`Software architecture`**, patterns and clean code. Refactoring for better structure helps my sanity. 
+- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray it´s beauty.
+- I am passionate about videogames, movies, series... **`Art`** and **`creation`** in most it´s forms.
+
+<br>
+
 **I´ve worked with:**
 
 **→Languages**
@@ -35,17 +44,9 @@
 <br>   
 
 
-**What I love**:
-<br>
-
-- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray it´s beauty.
-- I am passionate about videogames, movies, series... **`Art`** in its most elegant and interesting forms.
-
-<br>
-
 **Contact me through**:
 <br>
 
-- My email: **`pomaresdiego.011@gmail.com`**
+- My Instagram: **`multi_wav`**
 - My discord username: **`multit`**
 <br><br>
