@@ -18,8 +18,8 @@
 - I am passionate about videogames, movies, series. **`Art`** & **`creation`** in most its forms.
 
 <br>
-**My projects**:
 
+**My Projects**:
 <br>
 Either my editing or my software is properly shown in Instagram & Github respectively. Check it out in my repositories! Contacts below.
 
