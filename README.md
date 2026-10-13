@@ -26,29 +26,31 @@ Either my editing or my software is properly shown in Instagram & Github respect
 <br>
 <br>
 
-**I´ve worked with:**
+Tech Stack
 
-**→Languages**
+Core Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash)](https://skillicons.dev)
+![Core Expertise](https://skillicons.dev/icons?i=cs,dotnet)
 
-**→Web-development**
+C# · .NET · Object-Oriented Programming · SOLID Principles · Design Patterns
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,flask)](https://skillicons.dev)
+Software Architecture & Modeling
 
-**→Engines**
+![Architecture Tools](https://skillicons.dev/icons?i=mermaid,plantuml)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+Mermaid · PlantUML · diagrams.net · UML · Component Diagrams · Sequence Diagrams · System Design
 
-**→Data science**
+Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,matlab,r)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,py)
 
-**→Systems**
+Game Development
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,linux)](https://skillicons.dev)
+![Game Development](https://skillicons.dev/icons?i=unity)
 
-<br>   
+DevOps & Development Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)
 
 
 **Contact me through**:
