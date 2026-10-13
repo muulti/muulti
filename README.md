@@ -5,7 +5,7 @@
 
 - My name is  **`Diego`** and I´ve been around for 22 years.
 - I speak **`English and Spanish`** as fluently as a fish swims.
-- **`Computer Science`** student & **`Editor`** in my free time.
+- **`Computer Science & Engineering`**.
 - Still learning interesting things by myself as much as I can.
 
 <br>
@@ -19,43 +19,43 @@
 
 <br>
 
-**My Projects**:
+*For my projects, please check out my starred repositories! **:
 <br>
-Either my editing or my software is properly shown in Instagram & Github respectively. Check out my starred repositories! Contacts below.
+Contacts below.
 
 <br>
 <br>
 
-Tech Stack
+**I´ve worked with:**
 
-Core Expertise
+**→Core Expertise**
 
-![Core Expertise](https://skillicons.dev/icons?i=cs,dotnet)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
-C# · .NET · Object-Oriented Programming · SOLID Principles · Design Patterns
+**→Software Architecture & Modeling**
 
-Software Architecture & Modeling
+**`OOP · SOLID Principles · Design Patterns · UML · Mermaid · PlantUML · diagrams.net`**
 
-![Architecture Tools](https://skillicons.dev/icons?i=mermaid,plantuml)
+<br>
 
-Mermaid · PlantUML · diagrams.net · UML · Component Diagrams · Sequence Diagrams · System Design
+**→Other Comfortable Programming Languages**
 
-Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,py)
+**→GameDev & Simulations**
 
-Game Development
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
-![Game Development](https://skillicons.dev/icons?i=unity)
+**→DevOps & Development Tools**
 
-DevOps & Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)](https://skillicons.dev)
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)
+<br>   
 
 
 **Contact me through**:
 <br>
 
-- My Instagram: **`multi_wav`**
+- My email: **`diepom.011@gmail.com`**
 - My discord username: **`multit`**
 <br><br>
