@@ -19,7 +19,7 @@
 
 <br>
 
-*For my projects, please check out my starred repositories! **:
+**For my projects, please check out my starred repositories!**
 <br>
 Contacts below.
 
