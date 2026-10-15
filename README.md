@@ -13,9 +13,9 @@
 **What I do**:
 <br>
 
-- **`Software architecture`**, patterns and clean code. Refactoring for better structure helps my sanity. 
-- I love **`physics, math, black holes, the universe and writing complex simulations`** which portray its beauty.
-- I am passionate about videogames, movies, series. **`Art`** & **`creation`** in most its forms.
+- I'm motivated by good **`Software architecture`**, patterns and clean code. Building elegant things feels like therapy.
+- I love **`physics, math, black holes, the universe`** and writing software which portray its beauty.
+- I am passionate about videogames, films & books. **`Art`** & **`culture`** and how they shape the world.
 
 <br>
 
